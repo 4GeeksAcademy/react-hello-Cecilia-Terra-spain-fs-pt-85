@@ -14,7 +14,7 @@ const Home = () => {
 
 <Jumbotron/>
 
-<div className= "d-flex gap-4 d-flex justify-content-center" >
+<div className= "d-flex gap-4 d-flex justify-content-center row p-5" >
 <Card />
 <Card/>
 <Card/>
